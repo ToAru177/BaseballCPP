@@ -1,0 +1,8 @@
+﻿  Baseball_CPP.cpp
+D:\IoT\C#\Baseball_CPP\Baseball_CPP\NumberContainer.h(23): warning C4018: '<': signed/unsigned mismatch
+D:\IoT\C#\Baseball_CPP\Baseball_CPP\Answer.h(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Result.cpp
+D:\IoT\C#\Baseball_CPP\Baseball_CPP\NumberContainer.h(23): warning C4018: '<': signed/unsigned mismatch
+D:\IoT\C#\Baseball_CPP\Baseball_CPP\Answer.h(25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Baseball_CPP.vcxproj -> D:\IoT\C#\Baseball_CPP\Debug\Baseball_CPP.exe
